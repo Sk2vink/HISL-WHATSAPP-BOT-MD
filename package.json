@@ -1,7 +1,7 @@
 {
-  "name": "HISL-OFFICIAL-BOT-MD",
+  "name": "MANGANIMECITY_BOT",
   "version": "4.0.0",
-  "description": "Automated whatsapp md bot created using nodejs",
+  "description": "Automated whatsapp md bot created by SK using nodejs",
   "main": "hackers-in-sri-lanka.js",
   "type": "commonjs",
   "scripts": {
