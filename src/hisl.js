@@ -1,3 +1,3 @@
 {
-	"name": "HISL Bot Multi Device "
+	"name": "MANGANIME_CITY "
 }
