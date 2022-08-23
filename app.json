@@ -1,8 +1,8 @@
 {
-  "name": "HISL-Bot-MD",
+  "name": "MANGANIMECITY_BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/HISL-WHATSAPP-BOT-MD",
-  "logo": "https://telegra.ph/file/611fcbc5979c81afbf61f.jpg",
+  "repository": "https://github.com/Sk2vink/HISL-WHATSAPP-BOT-MD",
+  "logo": "https://i.ibb.co/Jzv42XJ/Whats-App-Image-2022-08-03-at-10-55-20.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
